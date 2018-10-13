@@ -1,1 +1,0 @@
-# rect_less_ru
